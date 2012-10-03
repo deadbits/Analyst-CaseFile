@@ -2,6 +2,7 @@ Security Analysis Entities
 ohdae - adam@zeroharbor.org
 ---------------------------
 For use with Maltego CaseFile
+(http://www.paterva.com/web6/products/casefile.php)
 
 
 This is a basic group to entities to help analysts and investigators
