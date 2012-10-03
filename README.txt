@@ -19,7 +19,7 @@ file hashes, paths, process and service names, etc.
 
 Hopefully this will be useful to some people while performing investigations
 and attempting to get a good graph or visualization of what happened during
-the course of events. I'll be expanded on this overtime and I'm definitely
+the course of events. I'll be expanding on this overtime and I'm definitely
 open to feedback and suggestions. Feel free to send in Git commits or shoot
 me an email if you think anything else should be added. 
 
