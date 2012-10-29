@@ -1,5 +1,5 @@
 Security Analysis Entities
-ohdae - adam@zeroharbor.org
+ohdae - adam@deadbits.org
 ---------------------------
 For use with Maltego CaseFile
 (http://www.paterva.com/web6/products/casefile.php)
