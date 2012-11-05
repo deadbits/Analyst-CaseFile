@@ -1,9 +1,7 @@
-Security Analysis Entities
-ohdae - adam@deadbits.org
----------------------------
-For use with Maltego CaseFile
-(http://www.paterva.com/web6/products/casefile.php)
-
+(for use with Maltego CaseFile - http://www.paterva.com/web6/products/casefile.php)
+(Maltego CaseFile is a trademarked product of Paterva. I am presenting these entities and add-ons
+as a community contribution. I am in no way affiliated, directly or in-directly, with Paterva or the
+Maltego product line.)
 
 This is a basic group to entities to help analysts and investigators
 use Maltego CaseFile for information security, malware analysis and
