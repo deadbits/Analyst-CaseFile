@@ -6,7 +6,7 @@ Maltego product line.)
 This is a basic group to entities to help analysts and investigators
 use Maltego CaseFile for information security, malware analysis and
 incident response specific cases. More entities and categories will
-be added in the very near futute, these were throw together rather
+be added in the very near future, these were throw together rather
 quickly.
 
 A full list of all the entities included so far is listed below.
